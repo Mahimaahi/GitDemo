@@ -1,0 +1,12 @@
+﻿05/06/2020 01:58:20:089 -----------------------------------------------------------------
+05/06/2020 01:58:20:089 NetpDoDomainJoin
+05/06/2020 01:58:20:089 NetpDoDomainJoin: using new computer names
+05/06/2020 01:58:20:089 NetpDoDomainJoin: NetpGetNewMachineName returned 0x0
+05/06/2020 01:58:20:089 NetpMachineValidToJoin: 'WINHP-AQLMHFN26'
+05/06/2020 01:58:20:089 NetpMachineValidToJoin: status: 0x0
+05/06/2020 01:58:20:089 NetpJoinWorkgroup: joining computer 'WINHP-AQLMHFN26' to workgroup 'WORKGROUP'
+05/06/2020 01:58:20:089 NetpValidateName: checking to see if 'WORKGROUP' is valid as type 2 name
+05/06/2020 01:58:20:105 NetpCheckNetBiosNameNotInUse for 'WORKGROUP' [ Workgroup as MACHINE]  returned 0x0
+05/06/2020 01:58:20:105 NetpValidateName: name 'WORKGROUP' is valid for type 2
+05/06/2020 01:58:20:105 NetpJoinWorkgroup: status:  0x0
+05/06/2020 01:58:20:105 NetpDoDomainJoin: status: 0x0
